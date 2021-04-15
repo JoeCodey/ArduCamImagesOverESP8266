@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.js ": "javascript",
+			"*.inc": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"memory_resource": "cpp",
+			"exception": "cpp",
+			"iosfwd": "cpp",
+			"new": "cpp",
+			"memory": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"typeinfo": "cpp",
+			"atomic": "cpp",
+			"utility": "cpp"
+		},
+		"workbench.preferredHighContrastColorTheme": "Default Dark+",
+		"workbench.preferredLightColorTheme": "Default Dark+",
+		"workbench.colorTheme": "Tomorrow Night Blue"
+	}
+}
